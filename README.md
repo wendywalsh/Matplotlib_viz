@@ -16,7 +16,7 @@ As well as, three pie charts showing:
    * % of Total Drivers by City Type
 
 Dependencies:
-pandas, numpy, matplotlib
+pandas, numpy, os, matplotlib
 
 
 Author
