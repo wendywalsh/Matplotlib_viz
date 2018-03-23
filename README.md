@@ -15,8 +15,8 @@ As well as, three pie charts showing:
    * % of Total Rides by City Type
    * % of Total Drivers by City Type
 
-Dependencies:
-pandas, numpy, os, matplotlib
+Python Libraries:
+pandas, numpy, matplotlib
 
 
 Author
